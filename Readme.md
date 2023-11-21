@@ -6,3 +6,7 @@ Acrescentei uma página para a resposta correta e outra para errada com explica�
 Ao errar, abre a página de explicação e volta para questão que errou. 
 Acertando, abre também a página de explicação e segue para a próxima questão.
 Mais que um jogo, optamos em dar ênfase a informação. 
+
+Como o projeto foi no fim do curso e aprendemos a linguagem lua e a lidar com solar 2d mais de 2 meses antes, o início foi de resgate do aprendizado. 
+Mais um motivo para não alterar as variáveis e focar na ideia do jogo e como realizar.
+
