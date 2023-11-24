@@ -1,12 +1,7 @@
-Projeto final do curso Eureka! Programanddo jogos e sites, realizado pela Cpdi, Comitê para democratização da Informática, cpdi.org.br, de agosto até novembro de 2023. Professor Gustavo Menescal.
-O jogo em questão foi uma reutilização do QuizFlag que foi ensinado durante o curso e consistia de responder qual bandeira era mostrada no alto da tela do celular com 3 respostas.
-Na reutilização, com prazo curto para entrega no projeto final, decidi não alterar os nomes das variáveis e remodelar a aparência e algumas funções.
-Minha equipe decidiu o tema do jogo e o objetivo. Deletei as bandeiras e uma opção de resposta, deixando com duas opções, a certa ou a errada.
-Acrescentei uma página para a resposta correta e outra para errada com explicações sobre a questão. 
-Ao errar, abre a página de explicação e volta para questão que errou. 
-Acertando, abre também a página de explicação e segue para a próxima questão.
-Mais que um jogo, optamos em dar ênfase a informação. 
+Projeto Final do Curso Eureka! Programando Jogos e Sites, realizado pelo CPDI (Comitê para Democratização da Informática) em parceria com o professor Gustavo Menescal, no período de agosto a novembro de 2023, pode ser acessado em cpdi.org.br. O projeto abordou a reutilização do QuizFlag, um jogo ensinado durante o curso. O desafio consistiu em identificar qual bandeira estava exibida no topo da tela do celular, com três opções de resposta.
 
-Como o projeto foi no fim do curso e aprendemos a linguagem lua e a lidar com solar 2d mais de 2 meses antes, o início foi de resgate do aprendizado. 
-Mais um motivo para não alterar as variáveis e focar na ideia do jogo e como realizar.
+Dada a restrição de tempo para a entrega do projeto final, optou-se por não alterar os nomes das variáveis, concentrando-se na remodelação da aparência e em algumas funcionalidades. A equipe definiu o tema do jogo e seu objetivo. Para simplificar, foram removidas uma bandeira e uma opção de resposta, resultando em duas opções: a correta e a incorreta. Foi introduzida uma página para explicar a resposta correta e outra para a resposta errada, ambas contendo informações detalhadas sobre a questão.
 
+Ao cometer um erro, o jogador é redirecionado para a página de explicação antes de retornar à questão incorreta, incentivando a aprendizagem. Em caso de acerto, o jogador também é direcionado para a página de explicação e, em seguida, encaminhado para a próxima questão. Mais do que apenas um jogo, o foco foi intensificar a transmissão de informações relevantes.
+
+Dado que o projeto foi concluído no final do curso, após ter aprendido a linguagem Lua e a lidar com o Solar 2D mais de dois meses antes, houve uma fase inicial de resgate do conhecimento adquirido. Esta foi uma das razões para manter as variáveis inalteradas, concentrando-se na concepção do jogo e na sua implementação.
